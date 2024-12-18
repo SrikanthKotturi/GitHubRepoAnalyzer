@@ -1,0 +1,1 @@
+A data analysis project that explores programming language trends using GitHub repository data. This project leverages PySpark for data processing and Matplotlib for visualizations to uncover insights about programming languages, their popularity, and usage patterns.
